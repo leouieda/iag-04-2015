@@ -1,2 +1,5 @@
-# iag-04-2015
-Palestrada ministrada no IAG/USP.
+# Fatiando a Terra: construindo uma base para ensino e pesquisa de geofísica
+
+## Resumo
+
+
