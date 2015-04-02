@@ -2,17 +2,6 @@
 
 ## Resumo
 
-Geofísicos utilizam obervações indiretas para inferir a estrutura interna da
-Terra. Esse processo é feito através de técnicas como modelagem direta e
-inversão. A criação de novos algoritmos de modelagem direta e inversão requer o
-desenvolvimento de programas de computador que implementem o novo método. Esses
-programas são normalmente produzidos através da cópia de trechos do código de
-diversos programas anteriores. Infelizmente, muitas vezes esses códigos não
-estão disponíveis ou não podem ser facilmente reutilizados. Nesses casos, cada
-pesquisador é obrigado a fazer suas próprias implementações e modificações.
-Essa repetição e falta de integração entre os componentes leva à baixa
-produtividade do pesquisador e alto risco de erros no programa final.
-
 O Fatiando a Terra (www.fatiando.org) é uma biblioteca feita na linguagem
 Python que tem como objetivo facilitar o trabalho de pesquisadores e
 professores na área geofísica. Os módulos da biblioteca foram planejados para
@@ -28,7 +17,7 @@ diversos módulos de modelagem direta. Com essas duas funções, o usuário pode
 escolher livremente entre diversos métodos de optimização e regularização para
 executar sua inversão.
 
-Para o ensino de geofísica, o Fatiando a Terra pode ser combinado com a
+Para o ensino de geofísica, a biblioteca pode ser combinada com a
 interatividade de outros programas, particularmente o IPython notebook
 (www.ipython.org). Conceitos difíceis de serem transmitidos em aula podem ser
 explorados pelos alunos de forma interativa, com botões, gráficos e animações.
