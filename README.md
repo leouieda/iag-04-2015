@@ -1,5 +1,24 @@
 # Fatiando a Terra: construindo uma base para ensino e pesquisa de geofísica
 
+Leonardo Uieda (16-04-2015)
+
+## About
+
+This is a presentation I gave for the Department of Geophysics of the
+University of São Paulo. It's about my open-source project
+[Fatiando a Terra](http://www.fatiando.org) and how I'm using for teaching
+geophysics and doing my own research on inverse problems.
+
+`slides.pdf` is the presentation (made in Google Docs). The live demos were
+performed with some of the IPython notebooks in the `notebooks` folder. You can
+view a static version of the notebooks on
+[nbviewer](http://nbviewer.ipython.org/github/leouieda/iag-04-2015/tree/master/notebooks/)
+(click of the `.ipynb` files).
+
+This repository (with slides and notebooks) is archived in
+[figshare](http://www.figshare.com):
+[doi: 10.6084/m9.figshare.1381870](http://dx.doi.org/10.6084/m9.figshare.1381870)
+
 ## Resumo
 
 O Fatiando a Terra (www.fatiando.org) é uma biblioteca feita na linguagem
@@ -11,7 +30,7 @@ desenvolver um método de inversão ou como parte de uma interface gráfica
 interativa. Além disso, as funções da biblioteca podem ser combinadas com
 funções desenvolvidas pelo usuário e com as muitas bibliotecas científicas da
 linguagem Python. O módulo de problemas inversos automatiza grande parte da
-implementação de um novo método de inversão. O pesquisar implementa somente o
+implementação de um novo método de inversão. O pesquisador implementa somente o
 cálculo de dados preditos e da matriz de sensibilidade, ambos reutilizando os
 diversos módulos de modelagem direta. Com essas duas funções, o usuário pode
 escolher livremente entre diversos métodos de optimização e regularização para
